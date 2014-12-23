@@ -9,7 +9,7 @@
 ;;
 ;; You can use the planner to solve this problem by 
 ;; calling ./laoplan directory/hanoi.pddl problem-hanoi
-;; by Liu Yang & Yiming Peng
+;; by Liu Yang
 
 ;; -------------------------------------------------------------- ;;
 ;;                        DOMAIN DESCRIPTION                      ;;
