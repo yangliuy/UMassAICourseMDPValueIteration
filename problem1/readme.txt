@@ -1,6 +1,6 @@
 /**Code for problem 1 of Homework 6 in AI course
   
-* @author Liu Yang & Yiming Peng
+* @author Liu Yang
 * @mail lyang@cs.umass.edu*/
 -----------------------------------------------------
 
